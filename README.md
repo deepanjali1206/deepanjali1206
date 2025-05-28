@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanjali Singh</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **KrishiSetu – A platform connecting farmers directly to markets for real-time trends and price predictions**
+- 🔭 I’m currently working on Career Navigator – A platform that guides individuals through career transitions by providing personalized insights, skill-gap analysis, and AI-driven career path predictions**
 
 - 🌱 I’m currently learning **Vue.js, Next.js, AI/ML technologies**
 
